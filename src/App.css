@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.TheWholeCourse{
+  display: flex;
+}
+.CourseField{
+  width: 70%;
+}
+.PurchaseField{
+  margin: 5px;
+  padding: 4px;
+  border-left: 1px solid lightgray;
+}

@@ -1,0 +1,15 @@
+.course-field{
+    display: flex;
+    border-bottom: 1px solid lightskyblue;
+    border-radius: 5px;
+}
+.course-img img{
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+.course-details{
+    margin: 10px;
+    padding: 5px;
+}
